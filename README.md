@@ -3,7 +3,7 @@ A dynamic and interactive To-Do List application built with React, designed to e
 
 ## Features
 
-**. Task Management**: Create or add new tasks , edit existing tasks to update details and delete tasks when no longer needed.
+***Task Management**: Create or add new tasks , edit existing tasks to update details and delete tasks when no longer needed.
 
 **. Manual Date and Time Entry**: Users can enter date and time for each task.
 
